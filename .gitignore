@@ -1,0 +1,4 @@
+data/mysql.sock
+data/
+*.sock
+/mysql/data/
