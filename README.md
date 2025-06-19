@@ -1,11 +1,4 @@
 # WEB_Quan_Li_Kho_Hang_Dien_Tu
-# 📦 XÂY DỰNG PHẦN MỀM QUẢN LÝ KHO NGUYÊN LIỆU CHO QUÁN CAFÉ
-
-## 👨‍🎓 Thông tin sinh viên
-- **Họ và tên:** [Điền tên sinh viên]
-- **Mã sinh viên:** [Điền mã số sinh viên]
-- **Ngành học:** Công nghệ thông tin
-- **Giảng viên hướng dẫn:** TS. Nguyễn [...]
 
 ---
 
