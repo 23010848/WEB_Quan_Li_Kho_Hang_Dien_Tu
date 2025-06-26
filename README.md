@@ -30,12 +30,16 @@ Website hỗ trợ quản lý kho điện tử bao gồm:
 - Nhắc nhở xử lý đơn, gửi mail tự động
 - Giao diện dễ sử dụng, có xác thực người dùng
 - ![image](https://github.com/user-attachments/assets/0908c59f-b105-4799-9b8b-3c661539e7d8)
-![image](https://github.com/user-attachments/assets/0908c59f-b105-4799-9b8b-3c661539e7d8)
+- các chức năng chính của dự án
+- ![image](https://github.com/user-attachments/assets/de9565dd-dfe2-46b9-923c-f93ced31432e)
 
 
 Ứng dụng được xây dựng bằng **Laravel**, với cơ sở dữ liệu **MySQL**, giao diện bằng **Tailwind CSS**, kết hợp **AJAX** và các chức năng như Reminder, Alert...
 
 ---
+mô hình use case 
+![image](https://github.com/user-attachments/assets/a583e9df-6711-4cd2-b99d-4d354097f3c5)
+
 
 ## 🔐 Tài khoản mẫu để đăng nhập hệ thống
 
