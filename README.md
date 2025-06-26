@@ -38,9 +38,9 @@ Website hỗ trợ quản lý kho điện tử bao gồm:
 
 🔑 Admin
 
-Tài khoản: nghiadaica
+Tài khoản: admin
 
-Mật khẩu: nghiadaica
+Mật khẩu: 123456
 
 
 ---
