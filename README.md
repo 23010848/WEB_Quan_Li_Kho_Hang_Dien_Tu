@@ -76,6 +76,12 @@ Quản lý đơn hàng: huỷ, thay đổi trạng thái
 Quản lý hóa đơn: phê duyệt, từ chối, in, báo cáo theo ngày
 mô hình use case 
 ![image](https://github.com/user-attachments/assets/a583e9df-6711-4cd2-b99d-4d354097f3c5)
+thiết kế cơ sở sử liệu : 
+mô hình 
+![image](https://github.com/user-attachments/assets/630638fd-e218-41ee-949e-d3b59aee5817)
+
+Classs diagram
+![image](https://github.com/user-attachments/assets/36f672cb-8b7d-408c-942b-64209323e2a8)
 
 
 Quản lý thông tin cá nhân
@@ -87,14 +93,6 @@ Quản lý thông tin cá nhân
 Tài khoản: admin
 
 Mật khẩu: 123456
-
-
----
-thiết kế cơ sở sử liệu : 
-mô hình 
-![image](https://github.com/user-attachments/assets/630638fd-e218-41ee-949e-d3b59aee5817)
-
-
 
 
 ---
