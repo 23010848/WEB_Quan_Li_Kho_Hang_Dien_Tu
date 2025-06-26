@@ -29,6 +29,9 @@ Website hỗ trợ quản lý kho điện tử bao gồm:
 - Quản lý hóa đơn nhập/xuất, tồn kho
 - Nhắc nhở xử lý đơn, gửi mail tự động
 - Giao diện dễ sử dụng, có xác thực người dùng
+- ![image](https://github.com/user-attachments/assets/0908c59f-b105-4799-9b8b-3c661539e7d8)
+![image](https://github.com/user-attachments/assets/0908c59f-b105-4799-9b8b-3c661539e7d8)
+
 
 Ứng dụng được xây dựng bằng **Laravel**, với cơ sở dữ liệu **MySQL**, giao diện bằng **Tailwind CSS**, kết hợp **AJAX** và các chức năng như Reminder, Alert...
 
