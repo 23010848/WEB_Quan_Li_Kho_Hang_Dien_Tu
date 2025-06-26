@@ -35,7 +35,47 @@ Website hỗ trợ quản lý kho điện tử bao gồm:
 
 
 Ứng dụng được xây dựng bằng **Laravel**, với cơ sở dữ liệu **MySQL**, giao diện bằng **Tailwind CSS**, kết hợp **AJAX** và các chức năng như Reminder, Alert...
+ệ thống được thiết kế nhằm giải quyết bài toán quản lý nguyên liệu, bao gồm:
 
+Quản lý nhập – xuất kho
+
+Cảnh báo tồn kho thấp
+
+Quản lý nhà cung cấp, khách hàng, đơn vị, danh mục, sản phẩm
+
+Thống kê, hóa đơn, đơn hàng
+
+Phân quyền vai trò: Admin, Nhân viên, Khách hàng
+
+Use Case đáng chú ý:
+
+UC01: Xác thực tài khoản
+
+UC03: Quản lý nhà cung cấp (CRUD)
+
+UC08: Quản lý đơn hàng: huỷ, cập nhật trạng thái
+
+UC09: Quản lý hóa đơn: phê duyệt, in, báo cáo
+
+UC10: Quản lý tồn kho
+
+Biểu đồ Use Case, Activity Diagram, Sequence Diagram được sử dụng để mô tả chi tiết luồng tương tác giữa người dùng và hệ thống.
+
+CHƯỜNG 3: XÂY DỰNG HẮ THỒNG
+
+Hệ thống được triển khai với các chức năng chi tiết:
+
+Đăng nhập/Đăng ký/Đổi mật khẩu
+
+Quản lý thống kê: doanh thu, sản phẩm, đơn hàng
+
+CRUD nhà cung cấp, sản phẩm, đơn vị, danh mục, khách hàng
+
+Quản lý đơn hàng: huỷ, thay đổi trạng thái
+
+Quản lý hóa đơn: phê duyệt, từ chối, in, báo cáo theo ngày
+
+Quản lý thông tin cá nhân
 ---
 mô hình use case 
 ![image](https://github.com/user-attachments/assets/a583e9df-6711-4cd2-b99d-4d354097f3c5)
