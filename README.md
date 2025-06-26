@@ -61,8 +61,6 @@ UC10: Quản lý tồn kho
 
 Biểu đồ Use Case, Activity Diagram, Sequence Diagram được sử dụng để mô tả chi tiết luồng tương tác giữa người dùng và hệ thống.
 
-CHƯỜNG 3: XÂY DỰNG HẮ THỒNG
-
 Hệ thống được triển khai với các chức năng chi tiết:
 
 Đăng nhập/Đăng ký/Đổi mật khẩu
