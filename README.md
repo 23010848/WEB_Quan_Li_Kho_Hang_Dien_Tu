@@ -74,12 +74,11 @@ CRUD nhà cung cấp, sản phẩm, đơn vị, danh mục, khách hàng
 Quản lý đơn hàng: huỷ, thay đổi trạng thái
 
 Quản lý hóa đơn: phê duyệt, từ chối, in, báo cáo theo ngày
-
-Quản lý thông tin cá nhân
----
 mô hình use case 
 ![image](https://github.com/user-attachments/assets/a583e9df-6711-4cd2-b99d-4d354097f3c5)
 
+
+Quản lý thông tin cá nhân
 
 ## 🔐 Tài khoản mẫu để đăng nhập hệ thống
 
