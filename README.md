@@ -51,16 +51,12 @@ Mật khẩu: 123456
 
 
 ---
+thiết kế cơ sở sử liệu : 
+mô hình 
+![image](https://github.com/user-attachments/assets/630638fd-e218-41ee-949e-d3b59aee5817)
 
-## 🧰 Công nghệ sử dụng
 
-- ⚙️ PHP (Laravel Framework)
-- 🌐 Laravel Breeze
-- 🎨 Tailwind CSS (frontend)
-- 🐬 MySQL (Aiven / XAMPP)
-- 📬 Laravel Mail & Scheduler
-- ⚡ AJAX (jQuery)
-- 🔔 SweetAlert (Laravel Alert)
+
 
 ---
 
@@ -87,38 +83,6 @@ Thống kê báo cáo tồn kho và doanh thu
 
 Quản lý người dùng và phân quyền
 
-🔐 Bảo mật hệ thống
-CSRF protection: @csrf
-
-Chống XSS: dùng {{ }} và escape đầu vào
-
-Validation đầu vào người dùng
-
-Middleware auth, verified, throttle
-
-Sử dụng Gate để phân quyền
-
-Dùng Query Builder để tránh SQL Injection
-
-📚 Về Laravel Framework
-Laravel là framework PHP hiện đại với cú pháp dễ hiểu, hỗ trợ phát triển ứng dụng web nhanh chóng và bảo mật. Laravel cung cấp:
-
-Routing đơn giản
-
-Container quản lý phụ thuộc mạnh mẽ
-
-ORM Eloquent trực quan
-
-Migrations đồng bộ CSDL
-
-Job queue & event broadcasting
-
-👉 Tài liệu chính thức Laravel
-
-💡 Học Laravel
-📘 Laravel Docs
-
-🎥 Laracasts – hơn 2000 video học Laravel, PHP, testing, JS...
 
 🤝 Góp ý / đóng góp
 Cảm ơn bạn đã quan tâm đến dự án. Bạn có thể tạo Issue hoặc Pull Request nếu muốn đóng góp thêm tính năng hoặc báo lỗi.
