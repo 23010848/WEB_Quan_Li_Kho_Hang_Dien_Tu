@@ -92,8 +92,38 @@ Tài khoản: admin
 
 Mật khẩu: 123456
 
+DEMO Dự án
+màn hình đăng nhập 
+![image](https://github.com/user-attachments/assets/3b1dea53-9b7f-44f4-80bc-4cf9a45a02e9)
 
----
+Giao diện 
+![image](https://github.com/user-attachments/assets/a14e408e-7229-49c6-a454-2e1a5a032359)
+
+![image](https://github.com/user-attachments/assets/e36e5e7c-c4f3-41ad-ae16-17fa5e49ab72)
+
+![image](https://github.com/user-attachments/assets/bc0df030-a749-4f35-ba97-23b7c9c4a780)
+
+![image](https://github.com/user-attachments/assets/6139f07e-f999-481c-8e59-a0c48e05fb7c)
+
+ ![image](https://github.com/user-attachments/assets/f0c0f043-81f8-43c3-8645-89119eb4a3fb)
+
+![image](https://github.com/user-attachments/assets/86594b1e-4cfa-4359-b1b4-eac7bee36f8f)
+
+![image](https://github.com/user-attachments/assets/32a76468-cbd0-4eb2-a798-880942f01503)
+
+![image](https://github.com/user-attachments/assets/a6286b44-093c-4a41-bbd5-7d8f8e893a19)
+
+![image](https://github.com/user-attachments/assets/66d4da3f-7c89-4093-baaf-4a75a3f552b9)
+
+![image](https://github.com/user-attachments/assets/b96e1336-12aa-4932-b649-316117bff7a4)
+
+![image](https://github.com/user-attachments/assets/0eedbe33-0047-414c-94fa-9e066ca3b8a7)
+
+![image](https://github.com/user-attachments/assets/ae01fc5f-ddb7-4b66-9078-707bdfcb5613)
+
+![image](https://github.com/user-attachments/assets/47ef94ad-bac9-40f0-bc63-99a8c2177266)
+
+![image](https://github.com/user-attachments/assets/926252da-bf3e-4c07-82ef-0712e2067d85)
 
 ## 🚀 Cài đặt & Chạy thử
 
